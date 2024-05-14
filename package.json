@@ -1,0 +1,25 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample application for auto update process.",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaruthuPandiG/ElectronAutoUpdate.git"
+  },
+  "keywords": [
+    "auto-update"
+  ],
+  "author": "Maruthu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaruthuPandiG/ElectronAutoUpdate/issues"
+  },
+  "homepage": "https://github.com/MaruthuPandiG/ElectronAutoUpdate#readme",
+  "dependencies": {
+    "electron": "^30.0.4"
+  }
+}
